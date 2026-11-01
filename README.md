@@ -29,6 +29,7 @@ AI has been part of my daily work since 2025, starting with GitHub Copilot as an
 
 - [`atena`](https://github.com/NicollasFrazao/atena): an AI assistant for messaging-platform support teams. The LLM only interprets: it calls deterministic tools, and the application runs the queries, enforces RBAC, masks personal data and writes an append-only audit log. Real-time anomaly incidents, DuckDB over S3, NestJS + React, Amazon Bedrock; unit and end-to-end tests in CI.
 - [`sqs-webhook-dispatcher`](https://github.com/NicollasFrazao/sqs-webhook-dispatcher): reliable webhook delivery on AWS Lambda + SQS — signed requests, exponential backoff with jitter, partial batch failures and a dead-letter queue. TypeScript, CDK, tested and in CI.
+- [`reserve-capture-ledger`](https://github.com/NicollasFrazao/reserve-capture-ledger): idempotent per-request billing on PostgreSQL — reserve, capture and release under retries and concurrency, with an append-only ledger; tests that fail if the row lock or the idempotency claim is removed. TypeScript, layered architecture, 145 tests, every guard rail in CI.
 - [`@liguelead/api-sdk`](https://www.npmjs.com/package/@liguelead/api-sdk): the TypeScript SDK for the LigueLead API (SMS, voice, RCS, voice AI and webhooks). I created it and later rewrote it for the current API.
 
 ### Earlier work
