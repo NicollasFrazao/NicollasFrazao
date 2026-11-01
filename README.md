@@ -2,7 +2,7 @@
 
 **Senior Backend Software Engineer** · Campinas, Brazil
 
-Backend engineer with 10+ years building production APIs and systems — currently Node.js/TypeScript on AWS, previously PHP/Laravel. Former backend Tech Lead of a 5-developer team.
+Backend engineer with 10+ years building production APIs and systems — currently Node.js/TypeScript on AWS, previously PHP/Laravel. Former backend Tech Lead of a small team.
 
 ## What I work on
 
