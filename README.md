@@ -27,6 +27,7 @@ AI has been part of my daily work since 2025, starting with GitHub Copilot as an
 
 ## Public work
 
+- [`sqs-webhook-dispatcher`](https://github.com/NicollasFrazao/sqs-webhook-dispatcher): reliable webhook delivery on AWS Lambda + SQS — signed requests, exponential backoff with jitter, partial batch failures and a dead-letter queue. TypeScript, CDK, tested and in CI.
 - [`@liguelead/api-sdk`](https://www.npmjs.com/package/@liguelead/api-sdk): the TypeScript SDK for the LigueLead API (SMS, voice, RCS, voice AI and webhooks). I created it and later rewrote it for the current API.
 
 ## Stack
