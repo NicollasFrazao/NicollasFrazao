@@ -27,8 +27,17 @@ AI has been part of my daily work since 2025, starting with GitHub Copilot as an
 
 ## Public work
 
+- [`atena`](https://github.com/NicollasFrazao/atena): an AI assistant for messaging-platform support teams. The LLM only interprets: it calls deterministic tools, and the application runs the queries, enforces RBAC, masks personal data and writes an append-only audit log. Real-time anomaly incidents, DuckDB over S3, NestJS + React, Amazon Bedrock; unit and end-to-end tests in CI.
 - [`sqs-webhook-dispatcher`](https://github.com/NicollasFrazao/sqs-webhook-dispatcher): reliable webhook delivery on AWS Lambda + SQS — signed requests, exponential backoff with jitter, partial batch failures and a dead-letter queue. TypeScript, CDK, tested and in CI.
 - [`@liguelead/api-sdk`](https://www.npmjs.com/package/@liguelead/api-sdk): the TypeScript SDK for the LigueLead API (SMS, voice, RCS, voice AI and webhooks). I created it and later rewrote it for the current API.
+
+### Earlier work
+
+- [`bway`](https://github.com/NicollasFrazao/bway): my Computer Engineering final project (2020), with a team of four: a Laravel shopping-list app that orders a supermarket visit by sector, using A* routes over a floor plan mapped in Python.
+- [`eletrontech`](https://github.com/NicollasFrazao/eletrontech): my IT technical course final project (2015), with a team of five: electrical calculators and a canvas floor-plan editor in PHP and MySQL.
+- Freelance work: [`qr-menu-ordering`](https://github.com/NicollasFrazao/qr-menu-ordering) (Laravel table ordering by QR code), [`service-order-system`](https://github.com/NicollasFrazao/service-order-system), [`lab-software-inventory`](https://github.com/NicollasFrazao/lab-software-inventory), [`pes-online-league`](https://github.com/NicollasFrazao/pes-online-league) and [`Os-Objetos-e-Suas-Narrativas`](https://github.com/NicollasFrazao/Os-Objetos-e-Suas-Narrativas) (an accessible museum guide with audio description and sign-language video).
+- Hiring challenges (2021–2025), mostly Laravel: [`4yousee`](https://github.com/NicollasFrazao/4yousee-coding-challenge), [`inmediam`](https://github.com/NicollasFrazao/inmediam-coding-challenge), [`wittel`](https://github.com/NicollasFrazao/wittel-coding-challenge), [`alfasoft`](https://github.com/NicollasFrazao/alfasoft-coding-challenge), [`ironfence`](https://github.com/NicollasFrazao/ironfence-coding-challenge), [`bussolasocial`](https://github.com/NicollasFrazao/bussolasocial-coding-challenge), [`spoten`](https://github.com/NicollasFrazao/spoten-coding-challenge), [`escribo`](https://github.com/NicollasFrazao/escribo-coding-challenge), [`fidelity`](https://github.com/NicollasFrazao/fidelity-coding-challenge) and [`montink`](https://github.com/NicollasFrazao/montink-coding-challenge).
+- Early personal projects: [`LEX`](https://github.com/NicollasFrazao/LEX), a vocabulary game in PHP.
 
 ## Stack
 
