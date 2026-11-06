@@ -1,6 +1,8 @@
 # Nícollas Frazão
 
-**Senior Backend Software Engineer · PHP/Laravel specialist** · Campinas, Brazil
+**Senior Software Engineer** | Back end · Node.js · TypeScript · AWS (Lambda, SQS, DynamoDB) · PHP/Laravel | High-volume messaging | AI-assisted engineering | Ex-Tech Lead
+
+Campinas, Brazil
 
 Backend engineer with 10+ years building production APIs and systems, specialised in PHP/Laravel and working today with Node.js/TypeScript on AWS. Former backend Tech Lead of a lean team.
 
