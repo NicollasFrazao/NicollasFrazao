@@ -1,8 +1,8 @@
 # Nícollas Frazão
 
-**Senior Backend Software Engineer** · Campinas, Brazil
+**Senior Backend Software Engineer · PHP/Laravel specialist** · Campinas, Brazil
 
-Backend engineer with 10+ years building production APIs and systems — currently Node.js/TypeScript on AWS, previously PHP/Laravel. Former backend Tech Lead of a lean team.
+Backend engineer with 10+ years building production APIs and systems, specialised in PHP/Laravel and working today with Node.js/TypeScript on AWS. Former backend Tech Lead of a lean team.
 
 ## What I work on
 
